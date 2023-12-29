@@ -43,7 +43,7 @@
 
 
 ## Quantumult X 图标库
-| ---- | ------------------------ | ---- |
+
 | 1 | [Qure](https://github.com/Koolson/Qure) | Koolson |
 
 ## 特别感谢
