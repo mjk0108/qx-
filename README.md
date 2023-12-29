@@ -17,7 +17,9 @@
 
 ## Quantumult X 复写
 | 类别 | 序号 | 功能 | 链接 
+
 | ---- | ---- | ---- | ---- | ---- |
+
 | 会员解锁 | 1 | 醒图+剪映会员+轻颜相机会员 | [XTJY.js](https://raw.githubusercontent.com/WeiRen0/Scripts/main/XTJY.js) 
 
 | 会员解锁 | 2 | WPS本地会员解锁 | [WPS.js](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Script/WPS.js) 
