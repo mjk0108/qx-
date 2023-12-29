@@ -1,7 +1,7 @@
 # 
 简哲规则
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/yourtelegramchannel)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/+iZBVehZYxbkyYWY1)
 
 ## 项目简介
 这里是您的项目的简短描述，说明项目的主要目的和功能。
