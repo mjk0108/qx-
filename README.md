@@ -16,7 +16,7 @@
 
 
 ## Quantumult X 复写
-| 类别 | 序号 | 功能 | 链接 
+| 类别 | 序号 | 功能 | 链接 | 作者 |
 
 | ---- | ---- | ---- | ---- | ---- |
 
@@ -40,6 +40,7 @@
 
 | 广告屏蔽 | 2 | 小红书去广告 | [redbook_json.js](https://github.com/ddgksf2013/Scripts/raw/master/redbook_json.js) 
 
+| ... | ... | ... | ... | ... |
 
 
 
